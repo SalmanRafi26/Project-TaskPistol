@@ -1,0 +1,22 @@
+Converting script [1 / 3]	[/Scripts/Player/PlayerAimWeapon.cs]
+	Fragments : 1
+		[ 0] : Line:    9	InputProperty mousePosition       
+
+Converting script [2 / 3]	[/Scripts/Player/PlayerControls.cs]
+	Fragments : 2
+		[ 0] : Line:   14	InputMethod   GetKey              	(KeyCode.R)
+		[ 1] : Line:   19	InputMethod   GetButtonDown       	("Fire1")
+
+Converting script [3 / 3]	[/Scripts/Player/PlayerMovement.cs]
+	Fragments : 2
+		[ 0] : Line:   17	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   18	InputMethod   GetAxis             	("Vertical")
+
+
+3 scripts modified!
+Overwriting actual scripts...
+	[0 / 3] from  [/Users/SallmanRafi/Downloads/PistolTask/CF2-Data/Script-Backups/2024-07-24-22-20/Assets-After//Scripts/Player/PlayerAimWeapon.cs] to [/Users/SallmanRafi/Downloads/PistolTask/Assets//Scripts/Player/PlayerAimWeapon.cs]
+	[1 / 3] from  [/Users/SallmanRafi/Downloads/PistolTask/CF2-Data/Script-Backups/2024-07-24-22-20/Assets-After//Scripts/Player/PlayerControls.cs] to [/Users/SallmanRafi/Downloads/PistolTask/Assets//Scripts/Player/PlayerControls.cs]
+	[2 / 3] from  [/Users/SallmanRafi/Downloads/PistolTask/CF2-Data/Script-Backups/2024-07-24-22-20/Assets-After//Scripts/Player/PlayerMovement.cs] to [/Users/SallmanRafi/Downloads/PistolTask/Assets//Scripts/Player/PlayerMovement.cs]
+
+Overwriting COMPLETED!
